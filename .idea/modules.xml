@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Codeforces.iml" filepath="$PROJECT_DIR$/.idea/Codeforces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Div.2 842/Div.2 842.iml" filepath="$PROJECT_DIR$/Div.2 842/Div.2 842.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Edu142/Edu142.iml" filepath="$PROJECT_DIR$/Edu142/Edu142.iml" />
     </modules>
   </component>
 </project>
